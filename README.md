@@ -1,2 +1,2 @@
 # semaforo
- Semáforo com Arduino
+ Site realizado para a apresentação do projeto: Semáforo com Arduino
